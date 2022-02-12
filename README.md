@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liyufeng222
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science at UC Berkeley
 - 📫 How to reach me liyufeng1130@gmail.com
 
 <!---
